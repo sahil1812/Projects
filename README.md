@@ -1,1 +1,1 @@
-In this project, I created a model For an Internet and Telephone service provider to predict when a customer would end their service. I first used pandas, numpy, seaborn and matplotlib libraries to create plots and graphs to understand the trend and then used sci-kit learn to find the most optimal tree-based supervised learning method for this case and make its model.
+
